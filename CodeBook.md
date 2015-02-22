@@ -29,7 +29,7 @@ and each is specified by Numbers 1 through 30.
 - The means and standard deviations are of:
 1. Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration.
 2. Triaxial Angular velocity from the gyroscope.
-- A list of all variable names appearing in the `Tidy_Data.txt` file are given below in their respective order:
+- A list of the 66 remaining variable names appearing in the `Tidy_Data.txt` file are given below in their respective order:
  
  [1] "Time BodyAcc-mean()-X"                           
  [2] "Time BodyAcc-mean()-Y"                           
