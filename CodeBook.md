@@ -22,10 +22,12 @@ and each is specified by Numbers 1 through 30.
 4. SITTING
 5. STANDING
 6. LAYING
+
 - There are 66 more variables represented by 66 more columns.
 - Each of the observation for these variables represents the means in each row for the stated variable column, the specified subject, and the specified activity.
 - There are 180 observations in each column
 - The observations are recorded through two different sensors: *accelerometer* and *gyroscope* of Samsung Galaxy S II smartphone, which the subjects wore on their waists
+
 - The means and standard deviations are of:
 1. Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration.
 2. Triaxial Angular velocity from the gyroscope.
@@ -95,8 +97,6 @@ and each is specified by Numbers 1 through 30.
 [62] "Frequency Body AccJerk Magnitude-std()"          
 [63] "Frequency Body  Gyroscopic  Magnitude-mean()"    
 [64] "Frequency Body  Gyroscopic  Magnitude-std()"     
-
 [65] "Frequency Body  Gyroscopic Jerk Magnitude-mean()"
-
 [66] "Frequency Body  Gyroscopic Jerk Magnitude-std()" 
 
