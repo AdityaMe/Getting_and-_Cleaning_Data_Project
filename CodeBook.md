@@ -5,7 +5,7 @@ Introduction
 ===============================
 
 This codebook contains a comprehensive description of the variables in 
-the Tidy Datadet created:
+the Tidy Dataset created:
 
 **Contents of the `Tidy_Data.txt` file: 180 observations of 68 variables**
 
