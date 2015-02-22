@@ -22,7 +22,6 @@ and each is specified by Numbers 1 through 30.
 4. SITTING
 5. STANDING
 6. LAYING
-
 - There are 66 more variables represented by 66 more columns.
 - Each of the observation for these variables represents the means in each row for the stated variable column, the specified subject, and the specified activity.
 - There are 180 observations in each column
@@ -98,5 +97,6 @@ and each is specified by Numbers 1 through 30.
 [63] "Frequency Body  Gyroscopic  Magnitude-mean()"    
 [64] "Frequency Body  Gyroscopic  Magnitude-std()"     
 [65] "Frequency Body  Gyroscopic Jerk Magnitude-mean()"
+
 [66] "Frequency Body  Gyroscopic Jerk Magnitude-std()" 
 
