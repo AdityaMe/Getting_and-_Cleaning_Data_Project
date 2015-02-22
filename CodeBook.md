@@ -12,7 +12,6 @@ the Tidy Dataset created:
 Variables and Their Description:
 =====================================
 
-- `row.names` column contains the row names, this is not in order.
 - `Subjects` column specifies the subject numbers. There are 30 subjects
 and each is specified by Numbers 1 through 30.
 - `ActivityID` column contains the following five variables each describing an activity:
