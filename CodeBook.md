@@ -1,4 +1,7 @@
-title: "CodeBook: Introduction"
+CodeBook 
+===============================
+
+Introduction
 ===============================
 
 This codebook contains a comprehensive description of the variables in 
